@@ -1,0 +1,4 @@
+# Travel.TourGuide
+Web based application made using HTML, CSS and JS. This project was developed as a part of our first hackathon. It is based on a Tour guide that helps the traveler and tourists in India to travel to various parts of the country to explore new places, culture, Food and history of the country. This Website makes it easier for the user to filter travel plans and packages and also updates them of the upcoming travel events across the country. The users can opt for tour packages or can make their own travel plans following the links provided so as to prevent them form fraud and scams. The website links to the tourism websites of the state government falling under the category of the Zones in the country. It also includes a currency conversion tool to help budgeting as well as a custom payment gateway placeholder.
+
+
